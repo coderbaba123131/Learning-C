@@ -24,7 +24,4 @@ int main()
         t--;
     }
     return 0;
-}
-
-// For right Rotation
-// arr[(i+n-r)%n]
+}   
